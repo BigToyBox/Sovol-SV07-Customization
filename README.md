@@ -6,7 +6,7 @@ I run klipper on all of my other printers. I control them using my iphone and ha
 
 This is my first Klipperscreen. It's OK so far but the filament presets needed to be customized to my preferences. 
 
-
+https://github.com/BigToyBox/Sovol-SV07-Customization/blob/main/SV07%20printer%20Orca%20customization%204_18_24.pdf
 
 ### On day 1, I unplugged the filament runout sensor and tossed it in the drawer. 
 (They cause too many false failuresd and I have NEVER had a filament break during a print)
