@@ -1,4 +1,4 @@
-# SV07-cfg-files
+# Sovol SV07 Customization
 
 I wanted to try out a 3d printer shipped from the factory with Klipper installed so I ordered a Sovol SV07.
 
