@@ -12,7 +12,7 @@ This is my first Klipperscreen. It's OK so far but the filament presets needed t
 (They cause too many false failuresd and I have NEVER had a filament break during a print)
 
 I created a filament runout part that bolts to the factory spool mount using the two threaded holes at the base of the spool arm.
-![filament guide](https://github.com/BigToyBox/Sovol-SV07-Customization/assets/120577343/f5b625f5-a3cc-412a-815d-7ebed2f5ac9a)
+![filament guide](https://github.com/BigToyBox/Sovol-SV07-Customization/assets/120577343/29295611-41d3-4b21-8c55-1811c1045eb5)
 
 Here is the stl file for the filament guide I created:
 https://github.com/BigToyBox/Sovol-SV07-Customization/blob/main/Filament%20Guide.stl
