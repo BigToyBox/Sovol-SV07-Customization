@@ -6,3 +6,4 @@ I run klipper on all of my other printers. I control them using my iphone and ha
 
 This is my first Klipperscreen. It's OK so far but the filament presets needed to be customized to my preferences. 
 
+https://github.com/BigToyBox/Sovol-SV07-Customization/blob/main/Filament%20Guide.stl
